@@ -1,4 +1,4 @@
-# alura-tracker
+# horse-tracker
 
 ## Project setup
 ```
